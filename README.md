@@ -1,2 +1,7 @@
-# demo-escribania-senet
-Demo web para ESCRIBANIA SENET — diseñada por eterlab.
+# ESCRIBANIA SENET
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
